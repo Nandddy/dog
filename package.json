@@ -1,0 +1,13 @@
+{
+    "name": "comp4964_assignment2",
+    "version": "1.0.0",
+    "description": "Dogs.",
+    "author": "Andy Nguyen <anguyen133@my.bcit.ca>",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+}
